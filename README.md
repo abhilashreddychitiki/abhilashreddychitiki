@@ -1,79 +1,45 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi there 👋, I'm Abhilash Reddy</h1>
-<h3 align="center">Full-Stack Developer • AI Enthusiast • Cloud Engineer</h3>
-
-<p align="center">
-  <a href="mailto:chitikiabhilashreddy18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://abhilash-reddy-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=react" />
-  </a>
-</p>
-
----
+<!-- PROFILE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abhilash%20Reddy%20🚀&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- ANIMATED INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AWS-Certified+Engineer+%E2%98%81%EF%B8%8F;Builder+of+AI-powered+apps+%F0%9F%A4%96;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+scalable+apps+💻;AI-powered+solutions+🤖;AWS-Certified+Developer+☁️;Lifelong+learner+📚" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 💻 5+ years experience delivering **scalable backend & full-stack systems**  
-- 🌐 Build apps with **Java, Spring Boot, AWS, Next.js, TypeScript, Python**  
-- ☁️ AWS Certified Developer – Associate  
-- 🔍 Passionate about **AI, microservices, and high-performance APIs**  
-- 📊 Thrive in **startup-like environments** tackling ambiguous problems  
-- 🛠 End-to-end ownership: design → build → deploy → scale  
+## 🧑‍💻 About Me
+💼 Software Development Engineer with **5+ years** of experience  
+💡 Passionate about **Full-Stack, AI, and Cloud**  
+🚀 Skilled in **Java, Spring Boot, Next.js, Python, AWS**  
+🎯 Obsessed with clean code & shipping features fast  
 
 ---
 
-### 🛠 Tech Stack
-**Languages:** Java, TypeScript, JavaScript, Python  
-**Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3  
-**Backend:** Spring Boot, FastAPI, Node.js, Express.js, gRPC  
-**Databases:** PostgreSQL, MongoDB, Redis  
-**Cloud:** AWS (Lambda, S3, CDK, CloudWatch, API Gateway)  
-**DevOps:** Docker, GitHub Actions, Jenkins, CI/CD Pipelines  
-**Other:** REST APIs, Microservices, Distributed Systems, Unit Testing  
-
----
-
-### 🔝 Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**SmileScript**](https://github.com/abhilashreddychitiki/smile-script) | AI call-summarizer for dental clinics with live demo | Next.js, FastAPI, Docker, Railway, Vercel |
-| [**Chess AI**](https://github.com/abhilashreddychitiki/chess-ai) | Monte Carlo Tree Search + RL engine with GUI | Python, NumPy, Tkinter |
-| [**Smart Expense Tracker**](#) | Fraud detection in expenses with ML | Next.js, Spring Boot, Python, AWS |
-| [**Code Reviewer Bot**](#) | AI-powered GitHub code review Chrome extension | Node.js, GPT-4, AWS Lambda |
-| [**Banking Microservices**](https://github.com/abhilashreddychitiki/banking-microservices-system) | Multi-service banking simulation | Docker, Kafka, Java/Spring |
-
----
-
-### 📈 GitHub Stats & Activity
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhilashreddychitiki&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhilashreddychitiki&theme=tokyonight" height="165" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,python,fastapi,nodejs,express,postgres,mongodb,redis,aws,docker,jenkins,git,github&perline=9" />
 </p>
 
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abhilashreddychitiki&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilashreddychitiki&theme=tokyonight" />
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhilashreddychitiki&theme=react-dark" />
 </p>
 
 ---
 
-### 📫 Let's Connect
-- **Email:** chitikiabhilashreddy18@gmail.com  
-- **LinkedIn:** [LINKEDIN](https://www.linkedin.com/in/abhilashreddychitiki/)  
-- **Portfolio:** [Portfolio](https://abhilash-reddy-portfolio.vercel.app/))  
-
----
-
+## 📬 Connect with Me
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhilashreddychitiki&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <a href="mailto:chitikiabhilashreddy18@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/abhilashreddychitiki/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://abhilash-reddy-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-47CCCC?style=for-the-badge&logo=react"></a>
 </p>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
