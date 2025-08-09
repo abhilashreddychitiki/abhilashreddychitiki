@@ -2,8 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abhilash%20Reddy%20🚀&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- ANIMATED INTRO -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+scalable+apps+💻;AI-powered+solutions+🤖;AWS-Certified+Developer+☁️;Lifelong+learner+📚" alt="Typing SVG" />
+  <p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=700&center=true&vCenter=true&lines=Full-stack+Developer+%F0%9F%92%BB;AWS-Certified+Developer+%E2%98%81%EF%B8%8F;AI-powered+apps+%F0%9F%A4%96;Problem+solver+%E2%9A%A1"
+    alt="typing animation with emojis"
+  />
 </p>
 
 ---
